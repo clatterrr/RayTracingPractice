@@ -1,4 +1,4 @@
-![rgba](ConsoleApplication1\rgba.png)
+![rgba](ConsoleApplication1/rgba.png)
 
 # RayTracingPractice
 
